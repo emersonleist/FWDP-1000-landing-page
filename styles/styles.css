@@ -81,6 +81,12 @@ a:focus {
 
 }
 
+.about-me-section {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 2rem;
+}
 
 .skills li {
     display: inline-block;
@@ -150,6 +156,9 @@ ul.skills {
     width: 100%;
 }
 
+.contact-link {
+    font-size: 1.5rem;
+}
 
 .project-card {
     display: flex;
